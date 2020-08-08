@@ -2,7 +2,7 @@
 ## Used the original code to quantify effect of the government interventions
 
 
-##Brief Overview Of SIR Model
+## Brief Overview Of SIR Model
 ![SIR model](/rwanda_plots/SIR.PNG)
 
 The effect of non-pharmaceutical interventions are incorporated by introducing flexible change points in the spreading rate.
