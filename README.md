@@ -10,12 +10,12 @@ ii)30th April-Loosened the lockdown, while allowing free movement within each pr
 
 iii). May 4th- a gradual easing of lockdown measures was introduced  with selected businesses allowed to resume operations while adhering to health guidelines. Domestic movement restrictions were partially relaxed but strict physical distancing measures mandated in public buses. Bars remain closed, and schools will only reopen in September.
 At the third change point,where the date was inferred to be around 3rd May,the spread rate λ(t),decreased from λ=0.19(CI[.03,0.87]) to λ=0.15(CI[.11,0.20]).The new interventions like physical distancing helped to decrease the spread rate.Though the decrease was not as substantial as the first one,since some interventions were also relaxed during this period. 
-![SIR model](/rwanda_plots/SIR.png)
+![SIR model](/rwanda_plots/SIR.PNG)
 
 
 
 For the approaching week,the number of cases are expected to increases shown above in the model.
-![Forecast Of SIR model](/rwanda_plots/forecast.png)
+![Forecast Of SIR model](/rwanda_plots/forecast.PNG)
 
 [![Documentation Status](https://readthedocs.org/projects/covid19-inference/badge/?version=latest)](https://covid19-inference.readthedocs.io/en/latest/doc/gettingstarted.html)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
